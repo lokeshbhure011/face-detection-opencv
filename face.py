@@ -8,9 +8,7 @@ import cv2
 trained_face_data = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
 
 #choose an image to detect face
-"""
-img = cv2.imread('NAR.png')
-"""
+
 webcam = cv2.VideoCapture(0)
 
 
