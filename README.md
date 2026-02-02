@@ -39,7 +39,7 @@ The detection flow is typically:
 -> Draw boxes around detected faces
 
 📦 Requirements
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 
 -> Make sure you have Python 3.x installed.
 
@@ -48,7 +48,7 @@ The detection flow is typically:
 -> pip install opencv-python numpy
 
 📁 Project Structure
------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 
 face_detector.haarcascading/
 
@@ -57,6 +57,7 @@ face_detector.haarcascading/
 ├── haarcascade_frontalface_default.xml
 
 └── README.md
+
 
 
 
